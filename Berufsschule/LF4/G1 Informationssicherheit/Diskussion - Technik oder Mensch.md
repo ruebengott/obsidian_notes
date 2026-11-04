@@ -1,3 +1,11 @@
+---
+tags:
+  - berufsschule
+  - lf4
+fach: LF4
+typ: übung
+status: zu-lernen
+---
 
 **Ist Informationssicherheit eher eine Frage der Technik oder der Menschen?**
 

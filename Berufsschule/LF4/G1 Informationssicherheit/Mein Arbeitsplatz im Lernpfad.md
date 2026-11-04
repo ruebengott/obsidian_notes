@@ -1,3 +1,11 @@
+---
+tags:
+  - berufsschule
+  - lf4
+fach: LF4
+typ: übung
+status: zu-lernen
+---
 
 Bei ACO sind unsere Daten sicher, weil wir unsere Server in einem eigenen Rechenzentrum betreiben. Diese sind extrem redundant, sodass unsere Daten durch ein dreistufiges Backup geschützt werden.
 Des Weiteren haben wir eine sehr hochwertige Netzwerkinfrastruktur, sodass kein Informationsabfluss nach außen hin stattfinden kann. Dies erreichen wir durch umfangreiche Monitoringmassnahmen und Sicherheitssoftware, die zum Beispiel Internettraffic und Dienste auf unseren Clients permanent überwachen.

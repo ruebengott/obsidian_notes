@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("Berufsschule")
+    - file.ext == "md"
+    - typ != "übersicht"
+properties:
+  fach:
+    displayName: Fach
+  typ:
+    displayName: Typ
+  status:
+    displayName: Status
+  datum:
+    displayName: Datum
+views:
+  - type: table
+    name: Zu lernen
+    filters:
+      and:
+        - status != "sitzt"
+        - typ == "thema"
+    groupBy:
+      property: fach
+      direction: ASC
+    order:
+      - file.name
+      - fach
+      - status
+      - datum
+  - type: table
+    name: Übungen
+    filters:
+      and:
+        - typ == "übung"
+    groupBy:
+      property: fach
+      direction: ASC
+    order:
+      - file.name
+      - fach
+      - status
+      - datum
+  - type: table
+    name: Alle Notes
+    groupBy:
+      property: fach
+      direction: ASC
+    order:
+      - file.name
+      - fach
+      - typ
+      - status
+      - datum

@@ -1,3 +1,11 @@
+---
+tags:
+  - berufsschule
+  - lf4
+fach: LF4
+typ: übung
+status: zu-lernen
+---
 
 Wer macht was bei "Laptop gestohlen"?
 
