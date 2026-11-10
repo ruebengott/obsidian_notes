@@ -60,4 +60,5 @@ quelle: "[[LF3.pdf]]"
 | [[Übung IPv4-Header Traceanalyse 1]] | Hex-Trace auswerten (ICMP) |
 | [[Übung IPv4-Header Traceanalyse 2]] | Hex-Trace auswerten (TCP, MF-Bit) |
 | [[Übung Fragebogen UDP]] | 7 Fragen zu UDP |
+| [[Übung DHCP-Aufgaben]] | 14 Fragen zu DHCP (Ports, Relay, DECLINE, APIPA, Starvation) |
 

@@ -91,3 +91,4 @@ mindmap
 - [[Gehaltsabrechnung]]
 - [[Entwicklung der sozialen Sicherung]]
 - [[Übung Sozialstaat und Sozialversicherung]]
+- [[Übung Sozialversicherungen Tabelle]]

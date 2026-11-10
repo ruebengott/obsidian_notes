@@ -12,6 +12,8 @@ status: zu-lernen
 > [!info] Inhalt
 > Der OneNote-Export `LF6.pdf` enthält bisher nur ein Deckblatt, eine leere Seite und die Lösung eines Logikrätsels. Typische Themen in LF6 sind Kundenkommunikation, Support-Level (1st/2nd/3rd Level), Ticketsysteme, ITIL-Grundbegriffe (Incident, Service Request, Problem), SLAs und strukturierte Fehleranalyse. Zu diesen Themen gibt es noch keine Mitschrift.
 >
+> - [ ] **Fehlende Wochen nachtragen**: Die Unterlagen kommen noch.
+>
 > Zusätzlich liegen im Rossian-Export (`LF1-LF2-Rossian.pdf`, S. 120–126) LF6-Arbeitsblätter zu **Kaufvertragsstörungen** vor: Sachmängel, Mängelrüge und Lieferverzug.
 
 ## Themen

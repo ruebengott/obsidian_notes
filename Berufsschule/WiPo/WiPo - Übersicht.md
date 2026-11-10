@@ -13,9 +13,9 @@ status: zu-lernen
 > Zurück zur Startseite: [[Berufsschule]]
 
 ## Organisatorisches
-- **Lehrkraft:** Herr/Frau Gades (laut Kopfzeile der Arbeitsblätter, Klasse IT25, Fach WiPo; Vorname in den Unterlagen nicht genannt)
+- **Lehrkraft:** Herr Gades (Klasse IT25)
 - **Leistungsbewertung:** ca. **50 % schriftlich** (eine oder zwei Klassenarbeiten) · ca. **50 % mündlich** (Anwesenheit, Bearbeitung der seltenen Hausaufgaben, Mitarbeit und Verhalten) – [[WIPO.pdf#page=9]]
-- **09.12.2025:** Note notiert: **22 Punkte** ([[WIPO.pdf#page=45]]) – vermutlich Ergebnis der WiPo-Klausur
+- **09.12.2025:** „22 Punkte“ notiert ([[WIPO.pdf#page=45]]); das ist keine Note
 - **16.12.2025:** Nachschreibtermin WiPo-Klausur (laut LF1-Unterlagen)
 
 ### Curriculum (Folie aus dem Unterricht)
@@ -62,6 +62,7 @@ status: zu-lernen
 - [[Übung JAV - Aufgaben und Praxisfall]] – Kiehl-Multiple-Choice, Wahlberechtigte zählen, Praxisfall Thomas
 - [[Übung Gehaltsabrechnung 2026]] – vier Fälle mit KiSt 8 %/9 % und Beitragsbemessungsgrenzen
 - [[Übung Sozialstaat und Sozialversicherung]] – Fälle zuordnen, Stellungnahmen (Rente, Versicherungspflicht, Äquivalenz)
+- [[Übung Sozialversicherungen Tabelle]] – eigene Excel-Übersicht der fünf Zweige, geprüft mit Werten 2026 (Korrektur UV)
 - [[Übung Elterngeld - Erklärvideo]] – Zuordnung und Wahr/Falsch
 - [[Übung Wirtschaftskreislauf - Viba GmbH]] – Aussagen dem erweiterten Kreislauf zuordnen
 - [[Übung Marktspiel und Marktformen]] – Grafikkarten-Spiel, Begriffe, Zuordnung der Marktformen

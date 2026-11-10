@@ -12,7 +12,7 @@ status: zu-lernen
 
 > [!info] Lernfeld 2 – „Kundenorientierter Arbeitsplatz“
 > - **Schule:** BBZ am Nord-Ostsee-Kanal (Europaschule), Schuljahr 2025/26
-> - **Lehrkraft:** in den Unterlagen nicht angegeben
+> - **Lehrkräfte:** Anu und Thies (Technik); Wirtschaftsteil: Rossian/Lobeck
 > - **Zeitraum der Mitschrift:** 07.10.2025 bis ca. April 2026
 > - **Quellen:** [[LF2.pdf]] (OneNote-Export, 70 Seiten), [[LF2 - Elektrotechnik.pdf]] (Übungsaufgaben mit Lösungen)
 

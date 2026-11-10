@@ -48,7 +48,7 @@ Zurück zu [[Berufsschule]]
 | [[Übung Passive Voice]] | 16 Sätze ins Passiv, Musterlösung korrigiert |
 | [[Übung Networks IT023]] | Fotos/Begriffe, Wortsalat, Komponenten, Network FAQ, Hausnetz-Skizze |
 | [[Übung Argument Stratos Data Center]] | Argument zum KI-Rechenzentrum, korrigiert + Concession |
-| [[Übung Flowcharts if-else und Zahlenraten]] | Flussdiagramme beschreiben (if-else, Schleife) |
+| [[Übung Flowcharts if-else und Zahlenraten]] | Flussdiagramme beschreiben (if-else, Schleife), liegt jetzt in LF5 (Programmierung) |
 
 ## Chronologie (laut Notizbuch)
 | Datum | Thema |

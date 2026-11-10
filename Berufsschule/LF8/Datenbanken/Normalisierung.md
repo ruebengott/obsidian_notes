@@ -74,8 +74,13 @@ Die ausführliche Lösung steht in [[Übungsaufgaben]].
 ## Übungen
 - [[Übungsaufgaben]]: Länder und Flüsse (1NF bis 3NF mit ausführlicher Lösung), Mitglieder und Kontakt
 - [[Datenbank Aufgaben]]: Bestellungen in die Tabellen Kunde, Produkt und Bestellung zerlegen
+- [[Übung Normalisierung Bestellungen in SQLite]]: dieselbe Aufgabe in SQLite, mit Korrektur, Zielmodell und SQL
 
 ## Siehe auch
 - [[Relationale Datenbanken]]
 - [[ER-Modell in Tabellen überführen]]
 - [[LF8 - Übersicht]]
+- [[Übung Normalisierung Bestellungen in SQLite]]
+- [[SQL - DDL Tabellen und Schlüssel anlegen]]
+- [[SQL - DML INSERT UPDATE DELETE]]
+- [[SQL - SELECT und JOIN]]

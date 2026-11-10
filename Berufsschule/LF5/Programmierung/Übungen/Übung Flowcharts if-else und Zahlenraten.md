@@ -1,6 +1,6 @@
 ---
-tags: [berufsschule, englisch, flowchart, programmierung]
-fach: Englisch
+tags: [berufsschule, lf5, englisch, flowchart, programmierung]
+fach: LF5
 typ: übung
 quelle: "[[Technisches Englisch.pdf#page=23]]"
 datum:
@@ -66,5 +66,9 @@ loop:
 > *If the guess is wrong, the program prints "wrong", asks "higher or lower?", adjusts the range and guesses again.*
 
 ## Siehe auch
+- [[Programmablaufplan und Flussdiagramm]]
+- [[Python Verzweigungen]]
+- [[Python Schleifen for und while]]
 - [[Writing Instructions]]
 - [[Englisch - Übersicht]]
+- [[LF5 - Übersicht]]

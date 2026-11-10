@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Schnitzelhaus</title>
+	</head>
+	<body>
+		<h1>Willkommen im Schnitzelhaus!</h1>
+		<img src="">
+		
+	<table border="0">
+		<tr>
+			<td>
+				<h2>Reservierung</h2>
+			</td>
+		</tr>
+		<tr>
+			<td>Rufen Sie uns einfach an</td>
+		</tr>
+	</table>
+	</body>
+</html>
