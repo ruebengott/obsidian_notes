@@ -11,7 +11,7 @@ status: zu-lernen
 > [!summary] Kurz & knapp
 > Fach **Technisches Englisch** (BBZ am Nord-Ostsee-Kanal, SJ 2025/26). Schwerpunkte: IT-Berufe, Anleitungen schreiben, IT-Vokabular (Hardware, Netzwerke), Grammatik (Tenses, Passiv) und Argumentieren. Prüfung: Listening, Text comprehension, Describing pictures, Mediation.
 
-Zurück zu [[Berufsschule]]
+Zurück zu [[Berufsschule - Übersicht]]
 
 ## Fach-Infos
 - Lehrkraft: **M. Bechmann** (Fußzeile der Arbeitsblätter), hat **Elektrotechnik** studiert.
@@ -64,4 +64,4 @@ Zurück zu [[Berufsschule]]
 - Handschriftliches Feedback zu einem Video (S. 15): *„good: … / should be improved: not waiting so much, more kindly“* – Kontext unbekannt. ![[Technisches Englisch.pdf#page=15]]
 
 ## Siehe auch
-- [[Berufsschule]]
+- [[Berufsschule - Übersicht]]

@@ -10,7 +10,7 @@ status: zu-lernen
 
 > [!summary] Lernfeld 1: Das Unternehmen und die eigene Rolle im Betrieb beschreiben
 > Wirtschaftslehre-Teil von LF1 am BBZ Rendsburg-Eckernförde (Schuljahr 2025/26): Unternehmensziele, Rechtsformen, Aufbau- und Ablauforganisation, Führungsstile.
-> Zurück zur Startseite: [[Berufsschule]]
+> Zurück zur Startseite: [[Berufsschule - Übersicht]]
 
 ## Organisatorisches
 - **Lehrer:** Herr Rossian (Wirtschaftslehre); Arbeitsblätter zu Führungsstilen stammen von Lehrkraft Schugardt (Kürzel „IT LF1 (Schugardt)“)

@@ -5,7 +5,7 @@ typ: übersicht
 ---
 # LF4 – Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Informationssicherheit, Recht, Standards & Lizenzen
 

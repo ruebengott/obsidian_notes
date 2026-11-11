@@ -1,5 +1,6 @@
 ---
-tags: [berufsschule]
+tags:
+  - berufsschule
 fach:
 typ: thema
 quelle:

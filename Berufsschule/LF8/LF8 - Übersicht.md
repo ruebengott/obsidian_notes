@@ -7,7 +7,7 @@ status: zu-lernen
 ---
 # LF8 – Daten systemübergreifend bereitstellen
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Inhalt
 > Zwei Blöcke: **Softwarequalität** (ISO/IEC 25010) und **Datenbanken** (relationales Modell, ER-Modell, Normalisierung, SQL). Quellen: OneNote-Export `LF8.pdf`, Moodle-Kurs BBZ (Kapitel 3.7.2) und Arbeitsblatt „3.2.1.2 Relationale Datenbanken“ (inf-schule).

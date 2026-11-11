@@ -8,7 +8,7 @@ status: zu-lernen
 ---
 # LF2 – Arbeitsplätze nach Kundenwunsch ausstatten
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Lernfeld 2 – „Kundenorientierter Arbeitsplatz“
 > - **Schule:** BBZ am Nord-Ostsee-Kanal (Europaschule), Schuljahr 2025/26

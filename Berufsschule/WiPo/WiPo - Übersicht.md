@@ -10,7 +10,7 @@ status: zu-lernen
 
 > [!summary] Wirtschaft und Politik (WiPo)
 > Fach „Wirtschaft und Politik“ der IT-Klasse IT25 am BBZ Rendsburg-Eckernförde (Schuljahre 2025/26 und 2026/27). Themen: Ausbildung und Arbeitsrecht (BBiG, JArbSchG, JAV, Betriebsrat), soziale Sicherung (Sozialversicherung, Lohnabrechnung, Elterngeld) sowie Wirtschaft und Markt (Wirtschaftskreislauf, Marktformen, magisches Viereck, Konjunktur).
-> Zurück zur Startseite: [[Berufsschule]]
+> Zurück zur Startseite: [[Berufsschule - Übersicht]]
 
 ## Organisatorisches
 - **Lehrkraft:** Herr Gades (Klasse IT25)

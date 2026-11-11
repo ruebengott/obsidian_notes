@@ -6,7 +6,7 @@ quelle: "[[LF3.pdf]]"
 ---
 # LF3 – Clients in Netzwerke einbinden
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Lernfeld-Infos
 > - **Lehrer:** Helge Repenning – h.repenning@bbz-nok.de (Duzen ist okay)

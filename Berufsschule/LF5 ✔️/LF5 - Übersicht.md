@@ -7,7 +7,7 @@ status: zu-lernen
 ---
 # LF5 – Software zur Verwaltung von Daten anpassen
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Inhalt
 > In der Schule beginnt LF5 mit dem Block **„IT-Grundlagen“** (Hardware, Server, Berufsbild). Danach folgen Datenformate, UML-Modellierung, HTML, Python-Programmierung und Projektmanagement. Quellen: OneNote-Export `LF5.pdf` (Sep 2025 bis Jun 2026) und die praktischen Aufgaben unter `_Quellen/Praktische Aufgaben/LF5`.

@@ -5,7 +5,7 @@ quelle: "[[Zwischennoten.pdf]]"
 ---
 # Zwischennoten
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Stand
 > Das Original (`Zwischennoten.pdf`) ist eine leere Tabellenvorlage. Eingetragen ist nur „LF1“ ohne Note. Bisher sind also **keine Noten** erfasst. Die Tabelle unten kann direkt weitergeführt werden.

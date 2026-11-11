@@ -7,7 +7,7 @@ status: zu-lernen
 ---
 # LF2 Wirtschaft – Übersicht
 
-← [[LF2 - Übersicht]] · [[Berufsschule]]
+← [[LF2 - Übersicht]] · [[Berufsschule - Übersicht]]
 
 > [!info] Inhalt
 > Wirtschaftlicher Teil von LF2 (Rossian/Lobeck, BBZ Rendsburg-Eckernförde), Quelle: `LF1-LF2-Rossian.pdf`, S. 72–119. Themen: Beschaffung und Angebotsvergleich, Handelskalkulation und Stundensätze sowie die rechtlichen Grundlagen des Kaufvertrags.

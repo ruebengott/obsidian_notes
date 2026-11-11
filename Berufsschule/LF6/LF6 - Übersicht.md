@@ -7,7 +7,7 @@ status: zu-lernen
 ---
 # LF6 – Serviceanfragen bearbeiten
 
-← [[Berufsschule]]
+← [[Berufsschule - Übersicht]]
 
 > [!info] Inhalt
 > Der OneNote-Export `LF6.pdf` enthält bisher nur ein Deckblatt, eine leere Seite und die Lösung eines Logikrätsels. Typische Themen in LF6 sind Kundenkommunikation, Support-Level (1st/2nd/3rd Level), Ticketsysteme, ITIL-Grundbegriffe (Incident, Service Request, Problem), SLAs und strukturierte Fehleranalyse. Zu diesen Themen gibt es noch keine Mitschrift.
