@@ -1,0 +1,5 @@
+- Ram verwalten
+- Kommunikation zwischen Hardwarekomponenten
+- Schnittstelle zwischen Hardware und Software
+- Nutzer-/Rechteverwaltung
+- Steuerung von Programmen

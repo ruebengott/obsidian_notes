@@ -11,4 +11,4 @@ Ja, weil folgende Merkmale erfüllt werden:
   
   **Einschränkung:** Wenn das Gerät nur mit dem mitgelieferten Temperatursensor betrieben wird und lediglich Werte anzeigt oder aufzeichnet, fehlt der Rückkanal in die physische Welt. Dann ist es eher ein vernetztes Messgerät, also ein IoT-Gerät, als ein vollständiges CPS. Zum CPS im engeren Sinn wird es erst, wenn über angeschlossene Aktoren ein geschlossener Regelkreis entsteht, zum Beispiel beim Schalten einer Heizung oder Lüftung.
   
-  Aktor = Elektrisches Steuergerät,
+  Aktor = Elektrisches Steuergerät
