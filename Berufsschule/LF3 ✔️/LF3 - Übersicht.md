@@ -24,7 +24,7 @@ quelle: "[[LF3.pdf]]"
 - [[MAC-Broadcast und Multicast]]: FF-FF-FF-FF-FF-FF, Rundruf bei der Anmeldung, Broadcast-Sturm
 - [[MAC-Randomisierung]]: zufällige MAC-Adressen gegen WLAN-Tracking
 - [[Ethernet-Frame]]: Präambel, SFD, MACs, VLAN-Tag, Typ, Daten, PAD, FCS
-- [[VLAN]]: ein physischer Switch, mehrere logische Netze; Access- vs. Trunk-Line
+- [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]: ein physischer Switch, mehrere logische Netze; Access- vs. Trunk-Line
 
 ## 3. Vermittlungsschicht (Schicht 3)
 - [[IPv4-Adresse vs. MAC-Adresse]]: Vergleichstabelle der beiden Adressarten

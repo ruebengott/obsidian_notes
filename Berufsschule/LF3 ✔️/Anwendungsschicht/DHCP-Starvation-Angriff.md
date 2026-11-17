@@ -40,7 +40,7 @@ Tafelbild: ![[LF3.pdf#page=32]]
 ## Schutzmaßnahmen
 - **DHCP-Snooping** auf dem Switch: Nur vertrauenswürdige Ports dürfen DHCP-Antworten senden
 - **Port-Security:** Anzahl der MAC-Adressen pro Switch-Port begrenzen
-- Netzwerk-Zugangskontrolle (IEEE 802.1X), Netzsegmentierung ([[VLAN]])
+- Netzwerk-Zugangskontrolle (IEEE 802.1X), Netzsegmentierung ([[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]])
 - Nutzerseitig: HTTPS-Zertifikat und Adresse prüfen
 
 > [!tip] Merke

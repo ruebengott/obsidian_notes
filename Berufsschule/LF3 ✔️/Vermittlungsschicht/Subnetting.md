@@ -72,6 +72,6 @@ pie title 192.168.1.0/24 aufgeteilt in 8 x /27
 ## Siehe auch
 - [[Subnetzmaske und CIDR-Notation]]
 - [[Netzbestimmung in 6 Schritten]]
-- [[VLAN]]
+- [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]
 - [[Routing und Default Route]]
 - [[Übung Subnetting Patiententrakt]]

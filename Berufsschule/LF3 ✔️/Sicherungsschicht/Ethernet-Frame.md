@@ -50,7 +50,7 @@ Original-Grafiken mit Beispielwerten:
 - Wert **0xD5** = `1101 0101`. Auf der Leitung (LSB first) wird `1010 1011` übertragen. Die abschließende **„11“** signalisiert: Jetzt folgen die Informationen (Ziel-MAC).
 
 ### VLAN-Tag (IEEE 802.1Q, optional)
-- Kennzeichnet **virtuelle Netze** (z. B. LBS-Gast, LBS-Verwaltung), siehe [[VLAN]]
+- Kennzeichnet **virtuelle Netze** (z. B. LBS-Gast, LBS-Verwaltung), siehe [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]
 - Wird vom **Switch** gesetzt bzw. ausgewertet
 - **TPID** (Tag Protocol Identifier, 16 Bit) = **0x8100** zeigt an, dass ein VLAN-Tag folgt
 - **TCI** (Tag Control Information, 16 Bit):
@@ -116,6 +116,6 @@ Gibt an, zu welchem Protokoll die Nutzdaten gehören:
 
 ## Siehe auch
 - [[MAC-Adresse]]
-- [[VLAN]]
+- [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]
 - [[Datenkapselung im TCP-IP-Modell]]
 - [[IPv4-Header]]

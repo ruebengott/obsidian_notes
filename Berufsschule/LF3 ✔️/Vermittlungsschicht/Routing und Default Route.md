@@ -78,4 +78,4 @@ Auf der Tafel wurde der Eintrag für 192.168.1.0/24 nacheinander für einzelne /
 - [[Subnetting]]
 - [[Netzbestimmung in 6 Schritten]]
 - [[IPv4-Header - Time to Live]]
-- [[VLAN]]
+- [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]

@@ -42,7 +42,7 @@ flowchart LR
 ## Broadcast-Sturm
 - Broadcasts **belasten** das Netz stark, denn jede Station muss den Frame verarbeiten.
 - Bei einem **Broadcast-Sturm** werden Broadcasts immer weiter vervielfältigt, z. B. durch Schleifen zwischen Switches. Das Netz kann dadurch komplett **zum Erliegen kommen**.
-- Broadcasts über Netzgrenzen hinweg vermeidet man daher. **Router leiten Broadcasts nicht weiter**, ein Subnetz bzw. VLAN bildet eine eigene Broadcast-Domäne. Siehe [[Subnetting]] und [[VLAN]].
+- Broadcasts über Netzgrenzen hinweg vermeidet man daher. **Router leiten Broadcasts nicht weiter**, ein Subnetz bzw. VLAN bildet eine eigene Broadcast-Domäne. Siehe [[Subnetting]] und [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]].
 
 > [!warning] Korrektur
 > In der Mitschrift stand, die Broadcast-Adresse „beginnt mit 11, weil sie per Software erzeugt ist“. Richtig ist: Die Broadcast-Adresse besteht aus **lauter Einsen** (FF-FF-FF-FF-FF-FF). Deshalb sind auch I/G = 1 (Gruppe) und U/L = 1. Mit „Software erzeugt“ hat das nichts zu tun. Außerdem hat sie 12 F (48 Bit), nicht 6 (in der Mitschrift waren nur 24 Bit notiert).
@@ -72,4 +72,4 @@ flowchart LR
 ## Siehe auch
 - [[MAC-Adresse]]
 - [[DHCP]]
-- [[Subnetting]] · [[VLAN]]
+- [[Subnetting]] · [[Berufsschule/LF3 ✔️/Sicherungsschicht/VLAN]]

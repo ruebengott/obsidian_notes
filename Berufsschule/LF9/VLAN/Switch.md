@@ -17,4 +17,4 @@ vlan <ID>
 name <Name>
 interface fastethernet <Nr> (Abk: int fa0/1) 
 interface range fastethenernet 0/3-4 (Abk: int range fa0/3-4)
-switchport access clan <ID>
+switchport access vlan <ID>
