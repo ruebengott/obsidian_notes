@@ -22,7 +22,7 @@ Bevor man rechnet, sollte man wissen, worauf es bei der Beschaffung überhaupt a
 - Herkunftsland (Zoll, Einfuhrbeschränkungen, Währungsunterschiede)
 - Qualität
 
-Nur die **in Euro messbaren** Kriterien fließen in den quantitativen Vergleich ein. Die übrigen (Qualität, Service, Image …) bewertet man mit der [[Nutzwertanalyse]].
+Nur die **in Euro messbaren** Kriterien fließen in den quantitativen Vergleich ein. Die übrigen (Qualität, Service, Image …) bewertet man mit der [[Berufsschule/LF2 ✔️/Wirtschaft/Beschaffung/Nutzwertanalyse]].
 
 ## Kalkulationsschema (Bezugskalkulation)
 
@@ -73,7 +73,7 @@ $$
 > z. B. Lieferzeit, Qualität, Service/Support, Zuverlässigkeit/Image des Lieferers, Herkunftsland (Zoll, Währung).
 
 ## Siehe auch
-- [[Nutzwertanalyse]]
+- [[Berufsschule/LF2 ✔️/Wirtschaft/Beschaffung/Nutzwertanalyse]]
 - [[Zuschlagskalkulation]]
 - [[Übung - Quantitativer Angebotsvergleich]]
 - [[LF2 Wirtschaft - Übersicht]]

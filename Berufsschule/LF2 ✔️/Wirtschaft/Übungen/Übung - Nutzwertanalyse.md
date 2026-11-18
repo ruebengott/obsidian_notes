@@ -86,6 +86,6 @@ Stimmen die Entscheidungen beim qualitativen und quantitativen Angebotsvergleich
 > Nein. Sie ist eine gute, strukturierte und nachvollziehbare Entscheidungshilfe, die auch weiche Faktoren berücksichtigt. Aber: Gewichtung und Punkte sind subjektiv und können (bewusst oder unbewusst) so gewählt werden, dass ein Wunschergebnis herauskommt; das Ergebnis täuscht eine Genauigkeit vor, die es nicht hat. Sinnvoll ist die Kombination mit dem quantitativen Vergleich und eine Bewertung im Team (Gremium).
 
 ## Siehe auch
-- [[Nutzwertanalyse]]
+- [[Berufsschule/LF2 ✔️/Wirtschaft/Beschaffung/Nutzwertanalyse]]
 - [[Angebotsvergleich quantitativ]]
 - [[Übung - Quantitativer Angebotsvergleich]]

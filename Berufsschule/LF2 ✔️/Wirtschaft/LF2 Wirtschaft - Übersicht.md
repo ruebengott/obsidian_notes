@@ -14,7 +14,7 @@ status: zu-lernen
 
 ## Beschaffung
 - [[Angebotsvergleich quantitativ]]: Bezugspreis berechnen und Angebote vergleichen
-- [[Nutzwertanalyse]]: qualitativer Angebotsvergleich mit gewichteten Kriterien
+- [[Berufsschule/LF2 ✔️/Wirtschaft/Beschaffung/Nutzwertanalyse]]: qualitativer Angebotsvergleich mit gewichteten Kriterien
 
 ## Kalkulation
 - [[Zuschlagskalkulation]]: vom Listeneinkaufspreis zum Listenverkaufspreis (Vorwärtskalkulation)
